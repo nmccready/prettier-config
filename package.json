@@ -1,0 +1,14 @@
+{
+  "name": "@znemz/prettier-config",
+  "version": "0.0.1",
+  "description": "prettier settings",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nmccready/prettier-plugin.git"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
